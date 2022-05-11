@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CalculatorApp {
 
     public static void main(String[] args) {
+    	// commentaire pour lancer sonarcloud
         SpringApplication.run(CalculatorApp.class, args);
     }
 }
